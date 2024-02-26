@@ -1,10 +1,10 @@
-#a bidirectional LSTM with pretrained bert sentence embeddings for news classification (9 topics) 
+# a bidirectional LSTM with pretrained bert sentence embeddings for news classification (9 topics) 
 
 Тренировочный проект для классификации новостных статей на русском языке (по мотивам соревнования https://www.kaggle.com/competitions/news-scraping-competition)
 
 Цель проекта: собрать на базе RNN рабочий классификатор новостных статей
 
-# Задачи, решенные в процессе:
+# Задачи, решенные в проекте:
 1) парсинг и подготовка корпуса статей
 2) интеграция предобученных эмбеддингов предложений, реализация пользовательского класса датасета
 3) реализация пользовательского класса и методов обучения и последующей оценки классификатора на базе RNN
