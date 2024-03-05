@@ -1,4 +1,4 @@
-# a bidirectional LSTM with pretrained bert sentence embeddings for news classification (9 topics) 
+# A bidirectional LSTM with pretrained bert sentence embeddings for news classification (9 topics) 
 
 Тренировочный проект для классификации новостных статей на русском языке (по мотивам соревнования https://www.kaggle.com/competitions/news-scraping-competition)
 
