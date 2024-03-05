@@ -1,6 +1,6 @@
 # A bidirectional LSTM with pretrained bert sentence embeddings for news classification (9 topics) 
 
-Тренировочный проект для классификации новостных статей на русском языке (по мотивам соревнования https://www.kaggle.com/competitions/news-scraping-competition)
+Проект для классификации новостных статей на русском языке (по мотивам соревнования https://www.kaggle.com/competitions/news-scraping-competition), выполненный в рамках интенсива RNN в NLP и приложениях от AI Education. 
 
 Цель проекта: собрать на базе RNN рабочий классификатор новостных статей
 
