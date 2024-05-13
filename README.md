@@ -1,4 +1,6 @@
 ##  LSTM with pretrained bert sentence embeddings for news classification (9 topics) and fake title generation (with FastAPI) 
+project report https://github.com/dalyeth/NewsParsing-Classification-SeqGeneration/blob/main/Project%20Report.pdf
+
 
 Проект для классификации новостных статей на русском языке и генерации новостных заголовков с реализацией веб-приложения
 
